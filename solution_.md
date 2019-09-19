@@ -1,8 +1,11 @@
 
-    # H1 Title
+   
+   # Solution
     
-    The title of the following papers pivotal to our knowledge:
-
-    MCC Van Dyke et al., 2019
-    JT Harvey, Applied Ergonomics, 2002
-    DW Ziegler et al., 2005
+   |Author |Title |
+   |-------|------|
+   |MCC Van Dyke et al., 2019 | Fantastic yeasts and where to find them: the hidden diversity of dimorphic fungal pathogens
+   |JT Harvey, Applied Ergonomics, 2002 | An analysis of the forces required to drag sheep over various surfaces
+   |DW Ziegler et al., 2005 |  Insulin needs after CD3-antibody therapy in new-onset type 1 diabetes
+    
+![alt text](https://github.com/eschrad/CS_Assignment/blob/master/plot.png "Plot with 300 DPI")    
